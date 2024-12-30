@@ -30,9 +30,9 @@ app.add_middleware(
 )
 
 # Filebase S3 configuration
-ACCESS_KEY = "2EF872A62061001F28F7"
-SECRET_KEY = "qq1EjmvKg2WcTor8Zo3COVPksEPfsSFN0NNfqmwc"
-BUCKET_NAME = "haams"
+ACCESS_KEY = "youraccesskey"
+SECRET_KEY = "yoursecretkey"
+BUCKET_NAME = "yourbucketname"
 FILEBASE_ENDPOINT = "https://s3.filebase.com"
 
 # Configure S3 client

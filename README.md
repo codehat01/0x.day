@@ -268,11 +268,5 @@ Below are the screenshots of the key pages of the application:
 2. Integrate real-world medical datasets for broader testing, such as the MIMIC-III Clinical Database, the eICU Collaborative Research Database, or publicly available cardiovascular health datasets.
 3. Optimize blockchain and encryption algorithms for scalability.
 
----
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
